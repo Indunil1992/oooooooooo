@@ -1,0 +1,92 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "53ed3136-ef81-4a14-a991-5d59392a35ef": {
+        "id": "53ed3136-ef81-4a14-a991-5d59392a35ef",
+        "parent": null,
+        "name": "oooooooooo.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "oooooooooo.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs8",
+          "timeout": 60,
+          "memory": 128,
+          "triggerType": 0,
+          "name": "oooooooooo"
+        },
+        "triggers": [
+          {
+            "resourceName": "http-trigger",
+            "config": {}
+          }
+        ]
+      },
+      "f11a8faf-96be-4184-9230-ebd4a53f80de": {
+        "id": "f11a8faf-96be-4184-9230-ebd4a53f80de",
+        "parent": null,
+        "name": "index.js",
+        "type": "JS_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": false,
+        "filePath": "index.js"
+      },
+      "440cbf77-3afc-420c-a62e-0a3dda5d75d2": {
+        "id": "440cbf77-3afc-420c-a62e-0a3dda5d75d2",
+        "parent": null,
+        "name": "main.py",
+        "type": "PYTHON_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": false,
+        "filePath": "main.py"
+      }
+    },
+    "openFiles": [
+      "53ed3136-ef81-4a14-a991-5d59392a35ef"
+    ],
+    "currentFileId": "53ed3136-ef81-4a14-a991-5d59392a35ef",
+    "resources": {
+      "http-trigger": {
+        "name": "http-trigger",
+        "type": "http-trigger",
+        "config": {}
+      }
+    },
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "sigmaVersion": "1.4.1.6",
+    "projectName": "oooooooooo",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east1",
+    "platform": "GCP",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1601984894309
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "oooooooooo",
+      "url": "https://github.com/Indunil1992/oooooooooo"
+    }
+  }
+}
